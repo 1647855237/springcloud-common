@@ -19,7 +19,7 @@
         <druid.version>1.1.6</druid.version>
         <!-- 下面mysql版本这个有问题，不知道为啥  ，可能没这个版本-->
         <!--<mysql-connector-java.version>5.1.45</mysql-connector-java.version>-->
-        <mysql-connector-java.version>5.1.40</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
         <!-- 一些工具包-->
        <!-- <commons-io.version>2.6</commons-io.version>
         <org.apache.commons.io.version>1.3.2</org.apache.commons.io.version>
